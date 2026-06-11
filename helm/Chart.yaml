@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-enterprise-architecture
+description: "BIAN Service Domain: Enterprise Architecture (Design pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - design
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Business Command and Control"
+  bian/asset-type: "Architecture Blueprint"
+  bian/control-record: "Architecture Blueprint Design"
